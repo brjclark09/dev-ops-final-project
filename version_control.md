@@ -7,8 +7,11 @@ Installing git on linux based systems:
 Initalize a repository:
 - `git init`
 
+Linking a repository:
+- `git remote add origin [LINK]`
+
 Clone a repository:
-- `git clone [ADDRESS]`
+- `git clone [LINK]`
 
 Adding files to a commit:
 - `git add .` for adding all files
@@ -21,7 +24,13 @@ Pushing files:
 - `git push origin master` for pushing files to the master branch
 
 Pulling files:
-- `git pull`
+- `git pull origin master` for pulling files from the master branch
 
 Viewing the log:
 - `git log`
+
+Adding a new branch:
+- `git branch [BRANCHNAME]`
+
+Switching to a branch:
+- `git switch [BRANCHNAME]`
