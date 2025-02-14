@@ -1,3 +1,9 @@
+---
+title: "Version Control"
+author: "Brandon Clark"
+description: "A summary of what I've learned this semester for the topic of version control."
+published: "2024-2-14"
+---
 # Version Control
 ## Commands
 Installing git on linux based systems:

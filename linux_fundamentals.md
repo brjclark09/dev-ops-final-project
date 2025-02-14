@@ -1,3 +1,9 @@
+---
+title: "Linux Fundamentals"
+author: "Brandon Clark"
+description: "A summary of what I've learned this semester for the topic of linux."
+published: "2024-2-14"
+---
 # Linux Fundamentals
 ## Commands
 Installing git on linux based systems:

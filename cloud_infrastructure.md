@@ -1,3 +1,9 @@
+---
+title: "Cloud Infrastructure"
+author: "Brandon Clark"
+description: "A summary of what I've learned this semester for the topic of cloud infrastructure."
+published: "2024-2-14"
+---
 # Cloud Infrastructure
 ## EC2
 Launching an instance on EC2 takes:
