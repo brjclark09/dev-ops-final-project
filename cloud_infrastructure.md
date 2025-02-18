@@ -31,8 +31,8 @@ sudo systemctl start httpd
 Search for S3 on AWS.
 - Name the S3 bucket
 - Allow all public access and check the box to acknowledge the risks
-![Allowing public access](/images/devopsfinal2.png)
+![Allowing public access](https://dev-ops-final.s3.us-east-1.amazonaws.com/devopsfinal2.png)
 - Enable bucket versioning
-![Enabled bucket versioning](/images/devopsfinal1.png)
+![Enabled bucket versioning](https://dev-ops-final.s3.us-east-1.amazonaws.com/devopsfinal1.png)
 
 Finish and create the bucket.
